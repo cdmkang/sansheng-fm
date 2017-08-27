@@ -1,0 +1,14 @@
+server:
+  port: ${PORT:8080}
+
+
+netease:
+  url: ${MEDIA_URL:https://vcloud.163.com}
+  appkey: ${NETEASE_APP_KEY:1d47ebaec779df581848a35730083d2f}
+  appsecret: ${NETEASE_APP_SECRET:83a392b9fc8b}
+
+
+
+
+
+
