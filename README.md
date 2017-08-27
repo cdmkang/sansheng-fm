@@ -19,5 +19,6 @@
 ```
 $ ./gradlew clean build bootRepackage
 $ docker build -t live .
+```
         
 #####本项目使用gradle进行构建，使用docker进行打包
